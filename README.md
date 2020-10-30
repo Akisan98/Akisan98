@@ -8,11 +8,11 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Mobile Dev-Android Native-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Mobile Dev-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mobile%20Dev-Android%20Native-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Mobile%20Dev-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Android Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Design-Adobe XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Design-Adobe%20XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=Html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 
