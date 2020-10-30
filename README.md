@@ -18,7 +18,7 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 ***Languages - Not Including Encrypted Projects***  😉
 
-  JavaScript | 48.7    Java | 13.1    Kotlin | 9.9    HTML | 7.9    Jupyter Notebook | 7.2    Python | 6.7    Dart | 3.7    Other | 2.3  
+  ![](https://img.shields.io/badge/JavaScript-48.7-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Java-13.1-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Kotlin-9.9-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/HTML-7.9-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Jupyter Notebook-7.2-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Python-6.7-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Dart-3.7-informational?style=flat&color=2bbc8a)    ![](https://img.shields.io/badge/Other-2.3-informational?style=flat&color=2bbc8a)  
 
 
   <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akisan98&layout=compact&langs_count=8" /></a>
