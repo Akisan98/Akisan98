@@ -18,13 +18,11 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 ***Languages - Not Including Encrypted Projects***  😉
 
-{{ LANGUAGE_TEMPLATE_START }}  ![](https://img.shields.io/badge/{{ LANGUAGE_NAME }}-{{ LANGUAGE_PERCENT }}-informational?style=flat&color=2bbc8a)  {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }} | {{ LANGUAGE_NAME }} - {{ LANGUAGE_PERCENT }} | {{ LANGUAGE_TEMPLATE_END }}
 
 
 
-  <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akisan98&layout=compact&langs_count=8" /></a>
-
-
+  <!-- <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akisan98&layout=compact&langs_count=8" /></a> -->
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?akisan98" frameborder="0"></iframe>
 
