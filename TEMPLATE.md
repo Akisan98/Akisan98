@@ -16,11 +16,15 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akisan98&show_icons=true&count_private=true" /></a>
 
-***Languages - Not Including Encrypted Projects***  😉
+***Languages***  😉
 
-{{ LANGUAGE_TEMPLATE_START }} | {{ LANGUAGE_NAME }} - {{ LANGUAGE_PERCENT }} | {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }} 
 
+- {{ LANGUAGE_NAME }} - {{ LANGUAGE_PERCENT }}
 
+{{ LANGUAGE_TEMPLATE_END }}
+
+**JavaScript is from a Flutter App compiled for Web, and not JavaScript I have written so, ignore the JavaScript part.**
 
   <!-- <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akisan98&layout=compact&langs_count=8" /></a> -->
 
