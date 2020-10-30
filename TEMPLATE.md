@@ -18,11 +18,7 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 ***Languages***  😉
 
-{{ LANGUAGE_TEMPLATE_START }} 
-
-- {{ LANGUAGE_NAME }} - {{ LANGUAGE_PERCENT }}
-
-{{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }}  ***{{ LANGUAGE_NAME }} - {{ LANGUAGE_PERCENT }}***  {{ LANGUAGE_TEMPLATE_END }}
 
 **JavaScript is from a Flutter App compiled for Web, and not JavaScript I have written so, ignore the JavaScript part.**
 
