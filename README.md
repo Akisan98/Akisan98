@@ -16,12 +16,3 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akisan98&show_icons=true&count_private=true" /></a>
 
-***Languages***  😉
-
-  ***JavaScript - 48.7***    ***Java - 13.1***    ***Kotlin - 9.9***    ***HTML - 7.9***    ***Jupyter Notebook - 7.2***    ***Python - 6.7***    ***Dart - 3.7***    ***Other - 2.3***  
-**JavaScript is from a Flutter App compiled for Web, and not JavaScript I have written so, ignore the JavaScript part.**
-
-  <!-- <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akisan98&layout=compact&langs_count=8" /></a> -->
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?akisan98" frameborder="0"></iframe>
-
