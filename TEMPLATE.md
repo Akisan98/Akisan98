@@ -18,7 +18,7 @@ I'm a software developer that are finishing my studies this fall. I'm from Norwa
 
 ***Languages - Not Including Encrypted Projects***  😉
 
-{{ LANGUAGE_TEMPLATE_START }}  {{ LANGUAGE_NAME }} | {{ LANGUAGE_PERCENT }}  {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }}  ![](https://img.shields.io/badge/{{ LANGUAGE_NAME }}-{{ LANGUAGE_PERCENT }}-informational?style=flat&color=2bbc8a)  {{ LANGUAGE_TEMPLATE_END }}
 
 
 
