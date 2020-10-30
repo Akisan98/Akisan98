@@ -14,7 +14,7 @@ I'm working on a second TV Show tracker, also under the name Binge, this time ba
 
 Here are some teasers: 
 
-<img src="photos\Screenshot_1604007476.png" style="height: 300px;" /><img src="photos\Screenshot_1604007480.png" style="height: 300px;" /><img src="photos\Screenshot_1604007485.png" style="height: 300px;" />
+<img src="photos\Screenshot_1604007476.png" height="400" /><img src="photos\Screenshot_1604007480.png" height="400" /><img src="photos\Screenshot_1604007485.png" height="400" />
 
 (This is a private Repository, but access can be requested)
 
