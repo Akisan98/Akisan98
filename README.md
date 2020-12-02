@@ -16,7 +16,7 @@ Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-a
 
 <img src="photos\Screenshot_1604007476.png" height="400" /><img src="photos\Screenshot_1604007480.png" height="400" /><img src="photos\Screenshot_1604007485.png" height="400" />
 
-(This is a private Repository, but access can be requested) - [Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-alpha) (Without Requesting Access)
+(This is a private Repository, but access can be requested) - [Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)
 
 ------
 
