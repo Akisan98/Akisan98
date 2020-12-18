@@ -14,7 +14,7 @@ I'm working on a second TV Show tracker, also under the name Binge, this time ba
 
 Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-alpha): 
 
-<img src="photos\Screenshot_1604007476.png" height="400" /><img src="photos\Screenshot_1604007480.png" height="400" /><img src="photos\Screenshot_1604007485.png" height="400" />
+<img src="photos\Screenshot_1607957780.png" height="400" /><img src="photos\Screenshot_1608292533.png" height="400" /><img src="photos\Screenshot_1608048616.png" height="400" />
 
 (This is a private Repository, but access can be requested) - [Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)
 
