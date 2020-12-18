@@ -4,7 +4,21 @@ I'm a software developer that are finishing my studies this fall and are looking
 
 ### 🛠️ Projects
 
- ![www.akisan.ml](https://img.shields.io/badge/Flutter-Binge-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-My%20Shows-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Web-My%20Website-informational?style=flat&logo=Html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-Mist-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+**Binge - Flutter | See Currenly Working on**
+
+**[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
+
+**[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more.
+
+**[Mist - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/Mist)** | Group Project at UiO, the Project was to represent data from meteorological institute in a user-friendly way in form of an Android app.
+
+##### Proof of Concepts:
+
+**[Happy Food (Android)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Android)** | Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
+
+
+
+![www.akisan.ml](https://img.shields.io/badge/Flutter-Binge-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-My%20Shows-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Web-My%20Website-informational?style=flat&logo=Html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-Mist-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
 ### 🛠️ Technologies & Tools
 
