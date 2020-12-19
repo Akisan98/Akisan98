@@ -1,10 +1,10 @@
 # <a href="https://www.akisan.ml/"><img src="photos\banner.png" width="100%" /></a>
 
-I'm a software developer that are finishing my studies this fall and are looking for work. 
+I'm a software developer that finished my studies this December and are looking for work. 
 
 ### 🛠️ Projects
 
-**Binge - Flutter | See Currenly Working on**
+[**Binge - Flutter | See Currenly Working on**](https://github.com/Akisan98#-currently-working-on)
 
 **[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
 
@@ -15,6 +15,8 @@ I'm a software developer that are finishing my studies this fall and are looking
 ##### Proof of Concepts:
 
 **[Happy Food (Android)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Android)** | Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
+
+**[Happy Food (Web Console)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products.
 
 
 
@@ -28,13 +30,19 @@ I'm a software developer that are finishing my studies this fall and are looking
 
 ### 👷 Currently Working On
 
-I'm working on a second TV Show tracker, also under the name Binge, this time based on Flutter and rebuild from the ground up, with a proper API, instead of web scraping; which means no issues with digital rights for images and stability. 😃
+I'm working on a second TV Show tracker, this under the name Binge, this time based on Flutter from the ground up, with a proper API, instead of web scraping; which means no issues with digital rights for images and stability. 😃
 
 Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-alpha): 
 
 <img src="photos\Screenshot_1607957780.png" height="400" /><img src="photos\Screenshot_1608292533.png" height="400" /><img src="photos\Screenshot_1608048616.png" height="400" />
 
-(This is a private Repository, but access can be requested) - [Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)
+<br>
+
+#### (This is a private Repository, but access can be requested) 
+
+#### OR
+
+####  **[Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)**
 
 ------
 
