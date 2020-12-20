@@ -42,7 +42,7 @@ Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-a
 
 #### OR
 
-####  **[Early Alpha Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)**
+####  **[Early Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)**
 
 ------
 
