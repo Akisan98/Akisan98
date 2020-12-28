@@ -18,9 +18,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 **[Happy Food (Web Console)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products.
 
-
-
-![www.akisan.ml](https://img.shields.io/badge/Flutter-Binge-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-My%20Shows-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Web-My%20Website-informational?style=flat&logo=Html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Android-Mist-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+<br>
 
 ### 🛠️ Technologies & Tools
 
@@ -32,9 +30,9 @@ I'm a software developer that finished my studies this December and are looking 
 
 I'm working on a second TV Show tracker, this under the name Binge, this time based on Flutter from the ground up, with a proper API, instead of web scraping; which means no issues with digital rights for images and stability. 😃
 
-Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-alpha): 
+Here are some [teasers](https://github.com/Akisan98/Akisan98/releases): 
 
-<img src="photos\Screenshot_1607957780.png" height="400" /><img src="photos\Screenshot_1608292533.png" height="400" /><img src="photos\Screenshot_1608048616.png" height="400" />
+<img src="photos\2.png" height="400" /><img src="photos\1.png" height="400" /><img src="photos\3.png" height="400" />
 
 <br>
 
@@ -47,8 +45,6 @@ Here are some [teasers](https://github.com/Akisan98/Akisan98/releases/tag/v0.1-a
 ------
 
 ### 📈 Stats
-
-***Commits - Including Private Repositories***  😉
 
 <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akisan98&show_icons=true&count_private=true" /></a>
 
