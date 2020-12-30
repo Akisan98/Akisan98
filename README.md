@@ -12,7 +12,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 **[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
 
-**[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more.
+**[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more. Live example at [www.akisan.ml](https://www.akisan.ml/) 
 
 **[Mist - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/Mist)** | Group Project at UiO, the Project was to represent data from meteorological institute in a user-friendly way in form of an Android app.
 
@@ -20,7 +20,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 **[Happy Food (Android)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Android)** | Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
 
-**[Happy Food (Web Console)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products.
+**[Happy Food (Web Console)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products. Live example at [hf.akisan.ml](https://hf.akisan.ml/) (Initial Load of Website Might be Slow, this website was made in Flutter)
 
 <br>
 
