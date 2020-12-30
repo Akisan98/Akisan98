@@ -6,6 +6,10 @@ I'm a software developer that finished my studies this December and are looking 
 
 [**Binge - Flutter | See Currenly Working on**](https://github.com/Akisan98#-currently-working-on)
 
+**["API Server" - Flask]([Akisan98/flask_api (github.com)](https://github.com/Akisan98/flask_api))** | I Created a small "Dummy" API Server based on Flask (Python), so i could try to create a REST/ REST-like API. Live example at [api.akisan.ml](https://api.akisan.ml/)
+
+[^Notes]: Due to my hosting provider only allowing static pages to live example is static while the code is "real / dynamic".  (This can be expanded by connecting to a DB vs. hard coded data)
+
 **[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
 
 **[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more.
