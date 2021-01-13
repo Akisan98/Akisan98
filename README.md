@@ -10,7 +10,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 <p style="font-size: 0.6rem;">Due to my hosting provider only allowing static pages to live example is static while the code is "real / dynamic".  (This can be expanded by connecting to a DB vs. hard coded data)</p>
 
-**[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
+**[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore! This application is currently being rewritten / restructured to remove bad code and its dependency on website of iMDb.
 
 **[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more. Live example at [www.akisan.ml](https://www.akisan.ml/) 
 
