@@ -4,9 +4,9 @@ I'm a software developer that finished my studies this December and are looking 
 
 ### 🛠️ Projects
 
-[**Binge - Flutter | See Currenly Working on**](https://github.com/Akisan98#-currently-working-on)
+[**Binge - Android & iOS (Flutter - Dart) | Currenly Working on**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
 
-**["API Server" - Flask](https://github.com/Akisan98/flask_api)** | I Created a small "Dummy" API Server based on Flask (Python), so i could try to create a REST/ REST-like API. Live example at [api.akisan.ml](https://api.akisan.ml/) 
+**["API Server" - Flask](https://github.com/Akisan98/flask_api)** | I Created a small "Dummy" API Server based on Flask (Python), so i could try to create a REST/ REST-like API. Example at [api.akisan.ml](https://api.akisan.ml/) 
 
 <p style="font-size: 0.6rem;">Due to my hosting provider only allowing static pages to live example is static while the code is "real / dynamic".  (This can be expanded by connecting to a DB vs. hard coded data)</p>
 
@@ -20,7 +20,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 **[Happy Food (Android)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Android)** | Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
 
-**[Happy Food (Web Console)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products. Live example at [hf.akisan.ml](https://hf.akisan.ml/) (Initial Load of Website Might be Slow, this website was made in Flutter)
+**[Happy Food (Web Console - Flutter)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products. Live example at [hf.akisan.ml](https://hf.akisan.ml/) (Initial Load of Website Might be Slow, this website was made in Flutter)
 
 <br>
 
@@ -34,17 +34,13 @@ I'm a software developer that finished my studies this December and are looking 
 
 I'm working on a second TV Show tracker, this under the name Binge, this time based on Flutter from the ground up, with a proper API, instead of web scraping; which means no issues with digital rights for images and stability. 😃
 
-Here are some [teasers](https://github.com/Akisan98/Akisan98/releases): 
-
 <img src="photos\2.png" height="400" /><img src="photos\1.png" height="400" /><img src="photos\3.png" height="400" />
 
 <br>
 
 #### (This is a private Repository, but access can be requested) 
 
-#### OR
-
-####  **[Early Build Now Available](https://github.com/Akisan98/Akisan98/releases) (Without Requesting Access)**
+####  <a href='https://play.google.com/store/apps/details?id=ml.akisan.binge&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width: 15vw"/></a>
 
 ------
 
