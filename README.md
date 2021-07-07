@@ -30,20 +30,6 @@ I'm a software developer that finished my studies this December and are looking 
 
 ------
 
-### 👷 Currently Working On
-
-I'm working on a second TV Show tracker, this under the name Binge, this time based on Flutter from the ground up, with a proper API, instead of web scraping; which means no issues with digital rights for images and stability. 😃
-
-<img src="photos\2.png" height="400" /><img src="photos\1.png" height="400" /><img src="photos\3.png" height="400" />
-
-<br>
-
-#### (This is a private Repository, but access can be requested) 
-
-####  <a href='https://play.google.com/store/apps/details?id=ml.akisan.binge&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="50"/></a>
-
-------
-
 ### 📈 Stats
 
 <a href="https://github.com/Akisan98/Akisan98/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akisan98&show_icons=true&count_private=true" /></a>
