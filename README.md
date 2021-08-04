@@ -4,7 +4,7 @@ I'm a software developer that finished my studies this December and are looking 
 
 ### 🛠️ Projects
 
-[**Binge - Android & iOS (Flutter - Dart) | Currenly Working on**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
+[**Binge - Android & iOS (Flutter - Dart)**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
 
 **["API Server" - Flask](https://github.com/Akisan98/flask_api)** | I Created a small "Dummy" API Server based on Flask (Python), so i could try to create a REST/ REST-like API. Example at [api.akisan.ml](https://api.akisan.ml/) 
 
