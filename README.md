@@ -3,6 +3,7 @@
 I'm a software developer that finished my studies this December and are looking for work. 
 
 ### 🛠️ Projects
+[**Party Bud - Android & iOS (.Net - Xamarin)**](https://play.google.com/store/apps/details?id=ml.akisan.party_bud)
 
 [**Binge - Android & iOS (Flutter - Dart)**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
 
