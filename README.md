@@ -3,7 +3,10 @@
 I'm a software developer that finished my studies this December and are looking for work. 
 
 ### 🛠️ Projects
-[**Party Bud - Android & iOS (.Net - Xamarin)**](https://play.google.com/store/apps/details?id=ml.akisan.party_bud)
+[**Party Bud - Android & iOS (.Net - Xamarin)**](https://play.google.com/store/apps/details?id=ml.akisan.party_bud)&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;[**GitHub Repository**](https://github.com/Akisan98/PartyBud)
+<!---
+[**GitHub Repository (.Net - Xamarin)**](https://github.com/Akisan98/PartyBud)
+-->
 
 [**Binge - Android & iOS (Flutter - Dart)**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
 
