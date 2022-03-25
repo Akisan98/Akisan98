@@ -1,6 +1,4 @@
-# <a href="https://www.akisan.ml/"><img src="photos\banner.png" width="100%" /></a>
-
-I'm a software developer that likes to work both frontend and backend.
+# <a href="https://www.akisan.ml/"><img src="photos\hero.png" width="100%"/></a>
 
 ### 🔨 Projects
 
@@ -10,23 +8,32 @@ I'm a software developer that likes to work both frontend and backend.
 
 [**Binge - Android & iOS (Flutter)**](https://play.google.com/store/apps/details?id=ml.akisan.binge)
 
+**[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more. Check out the upcoming [Website V4](https://v4.akisan.ml/) 
+
+**[Mist - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/Mist)** | Group Project at UiO, the Project was to represent data from meteorological institute in a user-friendly way in form of an Android app.
+
+```html
+<!--
+##### Proof of Concepts:
+
 **["API Server" - Flask](https://github.com/Akisan98/flask_api)** | I Created a small "Dummy" API Server based on Flask (Python), so I could try to create a REST-like API. Example at [api.akisan.ml](https://api.akisan.ml/) 
 
 <p style="font-size: 0.6rem;">Due to my hosting provider only allowing static pages to live example is static while the code is "real / dynamic".  (This can be expanded by connecting to a DB vs. hard coded data)</p>
 
-**[My website - HTML & CSS](https://www.akisan.ml/)** | My first website in HTML. It s a place to showcase my work and to learn HTML, by implementing things as I learn more. Live example at [www.akisan.ml](https://www.akisan.ml/) 
-
-**[Mist - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/Mist)** | Group Project at UiO, the Project was to represent data from meteorological institute in a user-friendly way in form of an Android app.
-
-##### Proof of Concepts:
-
 **[My Shows - Android (Kotlin)](https://github.com/Akisan98/encrypted/tree/master/My%20Shows)** | My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore! This application is currently being rewritten / restructured to remove bad code and its dependency on website of iMDb. **Replaced By Binge**
+
+
 
 [**Party Bud - Android & iOS (.Net - Xamarin)**](https://play.google.com/store/apps/details?id=ml.akisan.party_bud)&ensp;|&ensp;[**GitHub Repository**](https://github.com/Akisan98/PartyBud) Replaced by Chin Chin which is based on Flutter
 
 **[Happy Food (Android)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Android)** | Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
 
 **[Happy Food (Web Console - Flutter)](https://github.com/Akisan98/encrypted/tree/master/Happy%20Food/Console-Web)** | Web Console enables companies to add, edit and delete data about their products. Live example at [hf.akisan.ml](https://hf.akisan.ml/) (Initial Load of Website Might be Slow, this website was made in Flutter)
+
+ -->
+```
+
+
 
 <br>
 
